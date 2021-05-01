@@ -1,4 +1,4 @@
-# Privacy and Bias analysis of MIMIC-III dataset
+# Privacy and Bias Analysis of MIMIC-III dataset
 
 ## AC221 Critical Thinking in Data Science, Spring 2021
 
