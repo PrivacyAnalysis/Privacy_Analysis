@@ -24,6 +24,8 @@ In this project, we are incentivized to scrutinize those medical datasets first,
       ​	Part II_ K-anonmity & I-Diversity.ipynb
 
       ​	Part III_ Modeling.ipynb
+      
+      ​	AC221_final_report_group36.pdf
 
 ```
 
